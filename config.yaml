@@ -1,0 +1,2 @@
+seeder:
+  file: ./seeder/seeder.rb
