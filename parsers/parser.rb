@@ -1,1 +1,1 @@
-outputs < Hash[ENV.map{|k,v|[k,v]}]
+outputs << Hash[ENV.map{|k,v|[k,v]}]
