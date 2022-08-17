@@ -1,4 +1,4 @@
 seeder:
   file: ./seeder/seeder.rb
 parse_failed_pages: true
-browser_fetcher_image: gcr.io/answers-engine-cloud/fetch-browser-chrome1
+#browser_fetcher_image: gcr.io/answers-engine-cloud/fetch-browser-chrome1
